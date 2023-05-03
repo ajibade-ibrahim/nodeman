@@ -9,6 +9,9 @@ lerna-debug.log*
 #package
 package-lock.json
 
+#compiled javascript
+dist
+
 #.idea
 /.idea
 
